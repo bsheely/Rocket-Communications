@@ -36,5 +36,7 @@ Frontend
             Display each Alert category (errorCategory).
             Display each Alert time (errorTime).
             Allow sorting on the category.
+            
+ Tools/technologies used: Vaadin, Java, Spring Boot, Maven, MongoDB, AWS Beanstalk           
 
 <a href="http://grmdashboard-env-1.eba-urqkxu2w.us-west-1.elasticbeanstalk.com/" target="_blank">Link to website</a>
