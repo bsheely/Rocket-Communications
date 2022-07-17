@@ -1,6 +1,6 @@
 # Full Stack Developer Coding Challenge
 
-You will be building a basic version of a Ground Resources Management (GRM) Dashboard. There are two JSON files in this repository, contacts.json and alerts.json. Contacts (satellites) is a list of satellites in orbit and includes pertinent information about each device. Alerts is a list of unrelated status alerts with varying levels of severity. You will need to take this JSON data and persist it in a backend database. You will then develop a backend API, to be called upon by your frontend, which will display the data. This dashboard should allow registration and login of a user, requiring a password, and the user's credentials should also be persisted in your database.
+You will be building a basic version of a Ground Resources Management (GRM) Dashboard. There are two JSON files in this repository, contacts.json and alerts.json. Contacts (satellites) is a list of satellites in orbit and includes pertinent information about each device. Alerts is a list of unrelated status alerts with varying levels of severity. You will need to take this JSON data and persist it in a backend database. You will then develop a backend API, to be called upon by your frontend, which will display the data. This dashboard should allow registration and login of a user, requiring a password, and the user's credentials should also be persisted in your database. Allotted time: 2 days.
 
 The result should be a dashboard with two pages (the application can be single-page (SPA), or multiple pages):
 
@@ -37,6 +37,6 @@ Frontend
             Display each Alert time (errorTime).
             Allow sorting on the category.
             
- Tools/technologies used: Vaadin, Java, Spring Boot, Maven, MongoDB, AWS Beanstalk           
+ Tools/technologies used: Vaadin, Java, Spring Boot, Maven, MongoDB, Atlas, AWS Beanstalk           
 
 <a href="http://grmdashboard-env-1.eba-urqkxu2w.us-west-1.elasticbeanstalk.com/" target="_blank">Link to website</a>
