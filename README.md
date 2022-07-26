@@ -39,4 +39,4 @@ Frontend
             
  Tools/technologies used: Vaadin, Java, Spring Boot, Maven, MongoDB, Atlas, AWS Beanstalk           
 
-<a href="http://grmdashboard-env-1.eba-urqkxu2w.us-west-1.elasticbeanstalk.com/" target="_blank">Link to website</a>
+<a href="https://www.bsheely.us/grm-dashboard/" target="_blank">Link to website</a>
