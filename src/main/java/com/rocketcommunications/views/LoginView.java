@@ -81,7 +81,7 @@ public class LoginView extends HorizontalLayout {
         cancel.addThemeVariants(ButtonVariant.LUMO_PRIMARY);
         Button save = new Button("Save", event -> {
             if (dataService.getUser(username.getValue()) == null) {
-                //NOTE adding the spring-boot-starter-security dependency causes Vaadin to not render correctly
+                //NOTE: Password not encrypted for this demo due to time constraints
                 User user = new User(username.getValue(), password.getValue());
                 dataService.saveUser(user);
                 dialog.close();
