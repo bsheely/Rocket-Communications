@@ -38,5 +38,3 @@ Frontend
             Allow sorting on the category.
             
  Tools/technologies used: Vaadin, Java, Spring Boot, Maven, MongoDB, Atlas, Tomcat           
-
-<a href="https://www.bsheely.us/grm-dashboard/" target="_blank">Link to website</a>
